@@ -1,6 +1,6 @@
 <template>
 <div>
-    <input type="password" placeholder="Senha">
+    <input type="password" placeholder="Senha" class="form-control">
 </div>
 </template>
 
